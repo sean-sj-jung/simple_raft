@@ -10,6 +10,7 @@ This repository contains code for a simple training pipeline for **Retrieval-Aug
 
 ### Running the Pipeline
 - `create_dataset.py`: Generates a Hugging Face Dataset object (`*.hf` format) from the provided documents.
+  - The Dataset object will be saved to disk.
 - `finetune_hf.py`: Fine-tunes a pre-trained model using the created dataset.
 
 ### Tested Configuration
