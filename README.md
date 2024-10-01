@@ -1,6 +1,7 @@
 # Retrieval-Augmented Fine-Tuning (RAFT)
 
-This repository contains code for a simple training pipeline for **Retrieval-Augmented Fine-Tuning (RAFT)**, based on the approach described in the paper [RAFT: Adapting Language Models to Domain-Specific Retrieval-Augmented Generation (RAG)](https://arxiv.org/pdf/2403.10131).
+This is a set of code for **Retrieval-Augmented Fine-Tuning (RAFT)**, based on the approach described in the paper   
+[RAFT: Adapting Language Models to Domain-Specific Retrieval-Augmented Generation (RAG)](https://arxiv.org/pdf/2403.10131).
 
 ## Getting Started
 
