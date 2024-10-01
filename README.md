@@ -1,4 +1,3 @@
-# simple_raft
 Simple code for retrieval augmented fine tuning (RAFT)
 
 This is my training pipeline for [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131)
